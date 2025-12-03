@@ -1,0 +1,5 @@
+com\flavorshare\security\JwtUtilTest.class
+com\flavorshare\web\LikeControllerTest.class
+com\flavorshare\web\ReviewControllerTest.class
+com\flavorshare\web\RecipeControllerTest.class
+com\flavorshare\web\AuthControllerTest.class
